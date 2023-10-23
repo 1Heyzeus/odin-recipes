@@ -1,0 +1,34 @@
+.heading {
+    color: yellow;
+    background-color: grey;
+    font-weight: bold;
+    font-family: "Copperplate", monospace;
+    text-align: center;
+    margin: 50px;
+}
+.list-text {
+    background-color: steelblue;
+    text-align: center;
+    margin: 50px;
+}
+.bruschetta {
+    color: green;
+}
+.meatball {
+    color: brown;
+}
+.carbonara {
+    color: coral;
+}
+#carbonara-link {
+    font-size: x-small;
+}
+.meatball-recipe {
+    color: aqua;
+}
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%; 
+}
