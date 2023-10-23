@@ -1,5 +1,7 @@
 # odin-recipes
-Creating a recipe website
-Display HTML usage
-Practice various HTML tags
-Have a functional website layout
+<ul>
+  <li>Creating a recipe website</li>
+  <li>Display HTML usage</li>
+  <li>Practice various HTML tags</li>
+  <li>Have a functional website layout</li>
+</ul>
